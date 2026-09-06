@@ -1,0 +1,6 @@
+===== biseccion =====
+===== falsepos =====
+===== brent =====
+===== newton =====
+===== secante =====
+===== steffenson =====
